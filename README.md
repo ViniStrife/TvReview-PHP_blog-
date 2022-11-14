@@ -1,6 +1,6 @@
 # Tv Review
 
-  Blog design using "PHP"
+  Blog design using "PHP", fully responsive with mobile!
 
   <img height="500em" src="https://github.com/ViniStrife/TvReview-PHP_blog-/blob/master/assets/animation.gif">
   <br>
